@@ -20,3 +20,9 @@ go build hello.go
 go build wordcount.go
 
 ```
+
+Bonus:
+
+```PowerShell
+go run github.com/rehana7/beam-go/hello.go
+```
