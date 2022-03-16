@@ -18,6 +18,8 @@ go get github.com/apache/beam/sdks/v2/go/pkg/beam/io/filesystem/gcs@v2.37.0
 
 go build hello.go
 go build wordcount.go
-
+.\hello.go
+.\wordcount --input sample.txt --output out1
+Get-Content out1
 ```
 
