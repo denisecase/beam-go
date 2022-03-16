@@ -1,6 +1,6 @@
 # beam-go
 
-These are recommended - note: instead of installing the example into $GOPATH$, I downloaded a copy of the wordcount.go file. 
+These are recommended - note: instead of installing the example into $GOPATH$, I downloaded a copy of the wordcount.go file - replace the second line of the following 3 commands.
 
 
 ```PowerShell
