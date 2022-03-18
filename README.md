@@ -1,6 +1,6 @@
 # beam-go
 
-These are recommended - note: instead of installing the example into $GOPATH$, I downloaded a copy of the wordcount.go file. 
+These are recommended - note: instead of installing the example into $GOPATH$, I downloaded a copy of the wordcount.go file - replace the second line of the following 3 commands.
 
 
 ```PowerShell
@@ -18,5 +18,8 @@ go get github.com/apache/beam/sdks/v2/go/pkg/beam/io/filesystem/gcs@v2.37.0
 
 go build hello.go
 go build wordcount.go
-
+.\hello.go
+.\wordcount --input sample.txt --output out1
+Get-Content out1
 ```
+
