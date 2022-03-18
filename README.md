@@ -23,3 +23,14 @@ go build wordcount.go
 Get-Content out1
 ```
 
+## Main Errors in VS Code
+
+In general, our GitHub repo would host a Go module.
+
+Go modules typically have one or more Go packages that are then released together. 
+
+A package is a folder that has one or more files. 
+
+To fix "main" issues identified by VS Code, note that all our files are in the root package/folder, and we have two func main() in our main package.  When we install it, what would run?
+
+To fix: move your hello.go to a new GitHub repo/module. 
