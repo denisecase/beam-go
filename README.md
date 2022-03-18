@@ -34,3 +34,9 @@ A package is a folder that has one or more files.
 To fix "main" issues identified by VS Code, note that all our files are in the root package/folder, and we have two func main() in our main package.  When we install it, what would run?
 
 To fix: move your hello.go to a new GitHub repo/module. 
+
+## Custum Greeting (in new Module)
+
+- https://github.com/denisecase/hello-go-case
+
+
