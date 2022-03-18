@@ -11,5 +11,8 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World!")
+    fmt.Println("This is Dr. Case's Beam Go Hello project!")
+    fmt.Println("Hello, 世界!")
+	fmt.Println("Hello, వరల్డ్!")
+	fmt.Println("Hello, world!")
 }
